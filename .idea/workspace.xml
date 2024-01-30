@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="176391ce-2187-463f-94d3-345db94662ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_Consumindo_API.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/eduardoma/aula03/exercicio1/Calculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/eduardoma/aula03/exercicio2/Password.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/eduardoma/aula03/exercicio2/SenhaInvalidaExeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/eduardoma/aula04/exercicio01/CreateFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/eduardoma/aula04/exercicio02e03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/eduardoma/aula04/exercicio02e03/Title.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/eduardoma/aula04/exercicio04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/eduardoma/aula04/exercicio04/Vehicles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/eduardoma/aula05/desafioviacep/Cep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/eduardoma/aula05/desafioviacep/CepInvalidoExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/eduardoma/aula05/desafioviacep/CepRCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/eduardoma/aula05/desafioviacep/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -35,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2bT0bfegXyjEnigfb1jxNg3RLXC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,8 +47,10 @@
     "Application.Main.executor": "Run",
     "Application.Password.executor": "Run",
     "Application.br.com.eduardoma.aula04.exercicio04.Main.executor": "Run",
+    "Application.br.com.eduardoma.aula05.desafioviacep.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/edual/Downloads/gson-2.10.1.jar",
@@ -74,20 +69,7 @@
       <recent name="C:\Users\edual\Documents\Projetos\projetos JAVA\JAVA_Consumindo_API\src\br\com\eduardoma\aula04\exercicio01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.br.com.eduardoma.aula04.exercicio04.Main">
-    <configuration name="Calculo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.eduardoma.aula03.exercicio1.Calculo" />
-      <module name="JAVA_Consumindo_API" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.eduardoma.aula03.exercicio1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.br.com.eduardoma.aula05.desafioviacep.Main">
     <configuration name="CreateFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.eduardoma.aula04.exercicio01.CreateFile" />
       <module name="JAVA_Consumindo_API" />
@@ -140,15 +122,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="br.com.eduardoma.aula05.desafioviacep.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.eduardoma.aula05.desafioviacep.Main" />
+      <module name="JAVA_Consumindo_API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.eduardoma.aula05.desafioviacep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.br.com.eduardoma.aula05.desafioviacep.Main" />
         <item itemvalue="Application.br.com.eduardoma.aula04.exercicio04.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.CreateFile" />
         <item itemvalue="Application.Password" />
-        <item itemvalue="Application.Calculo" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -159,6 +161,19 @@
       <option name="presentableId" value="Default" />
       <updated>1706223836679</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finished this exercise from class lesson JAVA: Consumindo API's.">
+      <option name="closed" value="true" />
+      <created>1706235002460</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706235002460</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished this exercise from class lesson JAVA: Consumindo API's." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished this exercise from class lesson JAVA: Consumindo API's." />
   </component>
 </project>
