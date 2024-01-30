@@ -1,0 +1,47 @@
+[
+  {
+    "Cep": "30664-360",
+    "Logradouro": "Rua Antônio Lúcio Homem",
+    "Complemento": "",
+    "Bairro": "Vale do Jatobá (Barreiro)",
+    "Localidade": "Belo Horizonte",
+    "Uf": "MG",
+    "Ddd": "31"
+  },
+  {
+    "Cep": "30666-350",
+    "Logradouro": "Rua Geraldo Rosa Filho",
+    "Complemento": "",
+    "Bairro": "Mangueiras (Barreiro)",
+    "Localidade": "Belo Horizonte",
+    "Uf": "MG",
+    "Ddd": "31"
+  },
+  {
+    "Cep": "30575-630",
+    "Logradouro": "Rua Doutor Aristides de Pinho",
+    "Complemento": "",
+    "Bairro": "Palmeiras",
+    "Localidade": "Belo Horizonte",
+    "Uf": "MG",
+    "Ddd": "31"
+  },
+  {
+    "Cep": "30666-340",
+    "Logradouro": "Rua José Luis Raso",
+    "Complemento": "",
+    "Bairro": "Mangueiras (Barreiro)",
+    "Localidade": "Belo Horizonte",
+    "Uf": "MG",
+    "Ddd": "31"
+  },
+  {
+    "Cep": "30664-350",
+    "Logradouro": "Rua Roberto Pereira da Silva",
+    "Complemento": "",
+    "Bairro": "Conjunto Habitacional Vale do Jatobá (Barreiro)",
+    "Localidade": "Belo Horizonte",
+    "Uf": "MG",
+    "Ddd": "31"
+  }
+]
